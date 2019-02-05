@@ -24,9 +24,7 @@ public class Main
 	   
 		my_array2[j] = my_array[i - k];
 		j++;
-	      
-
-	  }
+	       }
       }
     System.out.println ("Original Array : " + Arrays.toString (my_array2));
   }
